@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> नमस्ते (Namaste), I'm Subhampreet Mohanty <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">  I'm E Jonathan Munoz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+<h3 align="center">I'm a Software and Web Developer  ❤</h3>
   
-A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+Full Stack Web developer🎯  I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
@@ -14,10 +14,10 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning NodeJs, and ReactJs
-- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
+- 👯 I’m looking to collaborate on Node.js projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on (https://www.codewithjonathan.com) 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: I cut my own hair , love Gaming , love Anime ! 
 <br />
 
 
