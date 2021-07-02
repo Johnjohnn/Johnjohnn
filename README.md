@@ -13,9 +13,9 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning NodeJs, Python and ReactJs
+- 🌱 I’m currently learning NodeJs, and ReactJs
 - 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/_the.odist_) 
+- 📫 How to reach me: You may follow me on (https://www.codewithjonathan.com) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
