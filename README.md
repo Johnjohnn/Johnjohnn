@@ -67,7 +67,7 @@ Full Stack Web developer🎯  I'm passionate about Full-Stack Web Development.:b
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://www.codewithjonathan.com)
 
 
-<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+
 
 </div>
 
